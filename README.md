@@ -47,4 +47,4 @@ Clicar numa delas, fazer Open e de seguida capturar uma imagem ou video
 
 
 // Comando matlab para obter dados caracteristicos das cameras 0 e 1
->> gigecamlist
+>>gigecamlist
