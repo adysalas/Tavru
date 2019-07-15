@@ -32,7 +32,7 @@ follow these steps:
 ## fim da instalacao do software Basler
 
 
-##Executar:
+## Executar:
 /opt/pylon5/bin/PylonViewerApp
 
 Deslidar Rede das cameras (CameraField) e voltar a ligar
