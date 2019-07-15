@@ -1,4 +1,4 @@
-#Readme TAVRU
+# Readme TAVRU
 Criar um arede ethernet manualmente com IPV4: 172.45.100.210 // ping 172.45.100.211 // ping 172.45.100.212 (Ricardo/Amado/Xastre respetivamente) com NetMask de 16 bits.
 
 ifconfig
