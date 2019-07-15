@@ -1,0 +1,1 @@
+% CamId ImageNumber CameraTimestamp(Ticks 1Tick = 90ns) CameraFrameCounter CameraTriggerCounter
