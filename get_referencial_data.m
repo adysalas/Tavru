@@ -77,4 +77,4 @@ name1=sprintf('camera1_Oy_dark.jpeg',i);
 imwrite(frames1x,name1,'JPEG');
 
 'A capturar segundo eixo Y'
-'Concluído'
+'Concluido'
